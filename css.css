@@ -1,5 +1,5 @@
 body {
-  background-color: #f0f2f5; /* Grey outer background */
+  background-color: #d4ddec; /* Grey outer background */
   margin: 0;
   padding: 40px; /* Space around the "inner page" */
   display: flex;
@@ -14,5 +14,5 @@ body {
   padding: 60px; /* Internal margins for content */
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
   border: 1px solid #ddd;
-  border-radius: 4px;
+  border-radius: 24px;
 }
